@@ -91,7 +91,7 @@ html,body
           font-size: 25px;
           padding: 8px 12px;
           position: absolute;
-          bottom: 50%;
+          bottom: 40%;
           width: 100%;
           text-align: center;
         }
@@ -239,7 +239,11 @@ background-color: lavender;
 
 
 
-
+.textmain{
+  font-size: 30px;
+  font-family:'Times New Roman', Times, serif;
+  color: #000000;
+}
 
 
 
@@ -262,12 +266,14 @@ background-color: lavender;
 }
     .review{
         width: 100%;
-        height: 502px;
+        height: 602px;
         position: absoltr;
-        background: #dbb986;}
+        background: #dacfbf;}
 .title3{ text-align: center;
-  color: #ffffff;
+  color: #000000;
   font-size: 30px;
+  background-color: rgb(245, 238, 219);
+  margin-bottom: 50px;
 
 }
 .boxhead{
@@ -294,10 +300,13 @@ background-color: lavender;
   
 }
         
+
+
+        
 .box4{
   background-color: white;
 
-  height: 350px;
+  height: 457px;
   
   text-align: center;
  width: 100%;
@@ -330,12 +339,10 @@ background-color: lavender;
 
 
 .foot{
-  background-color:rgb(129, 112, 74) ;
-  color: white;
+  background-color:rgb(228, 216, 192) ;
+  color: rgb(0, 0, 0);
   height: 60px;
-  position: absolute;
- 
- 
+
 }
 
 
