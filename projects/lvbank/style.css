@@ -1,0 +1,179 @@
+/*createacct*/
+
+.backgound{
+    background-color:rgb(48, 46, 46);
+    
+}
+.createacct{margin-top: 100px;
+    position: relative;
+    height: 3000px;
+}
+.inputbox{
+  float: left;
+  
+width: 700px;
+height: 139px;
+
+background: #D6D6D6;
+border-radius: 10px;
+}
+
+.labelstyle{
+    color: white;
+    font-family: Saira;
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 151px;
+
+}
+label {display:block;}
+textarea { display:block;}
+
+.input{
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 50%;
+}
+
+.buttonpos1{
+    font-size: 50px;
+    position: absolute;
+    bottom:   0%;
+    right: 0%;
+}
+
+.buttonpos2{
+    font-size: 50px;
+    position: absolute;
+    bottom:   0%;
+    left: 0%;
+}
+
+/*login*/
+.login{
+    height:1000px;
+    position: relative;
+}
+
+.inputbox2{
+    float: left;
+    
+  width: 1000px;
+  height: 139px;
+  
+  background: #D6D6D6;
+  border-radius: 10px;
+  }
+  
+  .labelstyle2{
+      color: white;
+      font-family: Saira;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 151px;
+  
+  }
+
+  
+.input2{
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 70%;
+}
+
+
+/*mainpage*/
+.mainpage{
+    height:  1300px;
+    position: relative;
+}
+.accountname{
+    text-align:center ;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+color: #FFFFFF;
+}
+.balance{
+    font-size: 100px;
+    color: black;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    height: 300px;
+
+
+
+background: #B4B2B2;
+border-radius: 10px;
+}
+
+
+.buttonpos3{
+    color: white;
+    font-size: 70px;
+    padding-top: 70px;
+    text-align: center;
+    width: 30%; height: 300px;background: #17CB07; float: left; ;
+    border-radius: 30px; margin-left: 37px; margin-top: 30px;
+}
+.button2{
+    width: 300px; height: 100px;background: #17CB07;
+    border-radius: 99px;
+    float: left;
+   
+}
+
+
+
+/*verify*/
+.verify{
+    height:900px;
+    position: relative;
+}
+
+/*initiate*/
+.verifys{
+    height:900px;
+    position: relative;
+}
+
+HTML,BODY,FORM{
+    height: 100%;
+}
+
+.buttonpos4{
+    font-size: 50px;
+    position: absolute;
+    bottom:   50%;
+    right: 0%;
+}
+
+/*Details*/
+
+.Details{margin-top: 100px;
+    position: relative;
+    height: 1800px;
+}
+
+
+.success{
+   
+    border: 5px solid rgb(0, 0, 0);
+    height: 1300px;
+    width:80%;
+    margin-left:8%;
+    position: relative;
+    background-color: rgb(255, 0, 0);
+}
+
+.buttonpos{
+    position:absolute;
+    margin-top:10%;
+    margin-left:40%
+}
